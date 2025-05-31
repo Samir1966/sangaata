@@ -19,7 +19,7 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="md:w-1/2 text-center md:text-left mb-12 md:mb-0 animate-fade-in">
             <h1 className="text-3xl md:text-5xl font-bold leading-tight text-gray-800 mb-4">
-              नमस्कार! मैं संगत - आपका स्वास्थ्य साथी
+              नमस्कार! मैं संगात - आपका स्वास्थ्य साथी
             </h1>
             <p className="text-gray-600 text-xl mb-8 max-w-lg mx-auto md:mx-0">
               Your caring health companion providing friendly and accessible health guidance for rural women.
