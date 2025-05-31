@@ -1,73 +1,75 @@
-# Welcome to your Lovable project
+# 🌸 Sangaata – Empowering Rural Women's Health
 
-## Project info
+![Sangaata Banner](https://via.placeholder.com/1000x250.png?text=Sangaata+-+Empowering+Rural+Women%27s+Health) <!-- Replace with your own image URL -->
 
-**URL**: https://lovable.dev/projects/b1515872-14ba-422e-8a37-b4b4c25b3c71
+**Sangaata** (ସଙ୍ଗାତା) is a tech-driven initiative focused on empowering and protecting the health of rural women through knowledge, care, and community. Built with ❤️ in India, our mission is to bridge the healthcare gap using modern technology and compassionate design.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 What is Sangaata?
 
-**Use Lovable**
+**Sangaata** is a web-based platform offering personalized tools, trackers, and resources for:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b1515872-14ba-422e-8a37-b4b4c25b3c71) and start prompting.
+- 🩺 **Women's Health Solutions** – Menstrual, Pregnancy, Nutrition & Emotional Health Support  
+- 📊 **Smart Trackers** – Period tracker, Baby growth monitor, Symptom visualizer  
+- 💊 **Medication & Reminder Tools** – Never miss a dose again  
+- 🧠 **Mental Health Support** – Wellness tools for emotional resilience  
+- 🧑‍⚕️ **Doctor Notes & Herbal Remedies** – Bridging tradition and modern health practices
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🧠 Why Sangaata?
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Rural women face challenges like:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 📉 Limited access to healthcare
+- 🧏 Lack of awareness about mental and reproductive health
+- 🩻 No digital record of personal wellness
+- 🤐 Cultural barriers to expressing health concerns
 
-Follow these steps:
+**Sangaata** brings **technology, dignity, and hope** together to change that.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🛠️ Built With
 
-# Step 3: Install the necessary dependencies.
-npm i
+- ⚛️ React + TypeScript
+- 🎨 Tailwind CSS
+- 🔐 Supabase (for secure backend)
+- 🌱 Vite (super-fast dev environment)
+- ☁️ Ready to deploy on Vercel / Netlify
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+## 📸 Sneak Peek
+
+> Coming soon: Live demo and screenshots of our solution in action!
+
+---
+
+## 📂 Project Structure
+
+---
+
+## 🧭 Roadmap
+
+- [x] Core health tracking features
+- [x] Period, Pregnancy & Nutrition support
+- [x] Tailwind UI design
+- [ ] Mobile app integration (coming soon 📱)
+- [ ] Odia/vernacular language support
+- [ ] Offline-first progressive web app (PWA)
+
+---
+
+## 🤝 Contribute
+
+We’re just getting started. Whether you're a **developer, health expert, or designer**, you can help bring Sangaata to life.
+
+```bash
+git clone https://github.com/Samir1966/sangaata.git
+cd sangaata
+npm install
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b1515872-14ba-422e-8a37-b4b4c25b3c71) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
